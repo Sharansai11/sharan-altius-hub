@@ -17,7 +17,7 @@ int largestRectangleArea(vector<int>& heights) {
     }
     heights.pop_back();
     return maxArea;
-}
+}  
 
 int maximalRectangle(vector<vector<int>>& matrix) {
     if (matrix.empty() || matrix[0].empty()) return 0;
