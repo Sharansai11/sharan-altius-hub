@@ -1,0 +1,1 @@
+{"name":"Local: maxarea","url":"c:\\Users\\Shara\\OneDrive\\Documents\\altiusHub\\maxarea.cpp","tests":[{"id":1755755802158,"input":"4 5 \n1 0 1 0 0\n1 0 1 1 1 \n1 1 1 1 1\n1 0 0 1 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Shara\\OneDrive\\Documents\\altiusHub\\maxarea.cpp","group":"local","local":true}
